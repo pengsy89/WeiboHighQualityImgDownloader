@@ -1,0 +1,16 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Launch Google App Engine",
+            "command": "python",
+            "type": "shell",
+            "args": [
+                "d:\\d\\",
+                "4298984039923256"
+            ],
+            "shwoOutput": "Always"
+
+        }
+    ]
+}
